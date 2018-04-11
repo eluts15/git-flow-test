@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Created a hotfix.")
 	fmt.Println("Another feature_branch test.")
 	fmt.Println("Created release 0.1.1")
+	fmt.Println("Another hotfix for 0.1.1")
 }
